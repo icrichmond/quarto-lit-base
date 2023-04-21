@@ -10,6 +10,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/papers/Cheng_et_al_2021.html",
       "/papers/Hsieh_et_al_2016.html",
       "/topics/TemperatureMitigation.html",
       "/topics/Academia.html",
@@ -200,6 +201,7 @@
   {
     "listing": "/papers.html",
     "items": [
+      "/papers/Cheng_et_al_2021.html",
       "/papers/Hsieh_et_al_2016.html",
       "/papers/Alonzo_et_al_2021.html",
       "/papers/Vogt_2018.html",

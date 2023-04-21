@@ -1,0 +1,7 @@
+\# Sax_et_al_2022
+
+Sax DL, Nesbitt L, Quinton J (2022) Improvement, not displacement: A framework for urban green gentrification research and practice. Environmental Science and Policy 137:373-383. https://doi.org/10.1016/j.envsci.2022.09.013
+
+\-\--
+
+Keywords: Urban \[gentrification\](../topics/Gentrification.qmd), \[environmental justice\](../topics/EnvironmentalJustice.qmd), [methods](../topics/Methods.qmd)

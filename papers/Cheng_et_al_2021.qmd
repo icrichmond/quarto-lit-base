@@ -1,0 +1,15 @@
+# Cheng_et_al_2021
+
+Cheng Z, Nitoslawski S, Konijnendijk van den Bosch C, Sheppard S, Nesbitt L, Girling C (2021) Alignment of municipal climate change and urban forestry policies: A Canadian perspective. Environ Sci & Pol. https://doi.org/10.1016/j.envsci.2021.04.005
+
+------------------------------------------------------------------------
+
+Keywords: [Urban forests](../topics/UrbanForests.qmd), [planning](../topics/Planning.qmd), [Canada](../topics/Canada.qmd)
+
+-   point was to study if urban forest and climate change policies are mutually supportive
+
+-   20 largest Canadian cities
+
+-   Calgary had lowest percentage of canopy cover (7.1%)
+
+-   
