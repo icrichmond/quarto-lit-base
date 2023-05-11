@@ -1,0 +1,9 @@
+# Zhang_et_al_2020
+
+Xibei Zhang, Zhuobiao Ni, Yafei Wang, Siyu Chen, Beicheng Xia (2020). Public perception and preferences of small urban green infrastructures: A case study in Guangzhou, China. Urban Forestry & Urban Greening 53:126700,
+https://doi.org/10.1016/j.ufug.2020.126700.
+
+---
+
+Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [green space](../topics/GreenSpace.qmd), [biodiversity](../topics/Biodiversity.qmd), perceptions, [methods](../topics/Methods.qmd)
+
