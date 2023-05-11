@@ -1,0 +1,38 @@
+# Hoyle_et_al_2017
+
+Helen Hoyle, James Hitchmough, Anna Jorgensen (2017) All about the 'wow factor'? The relationships between aesthetics, restorative effect and perceived biodiversity in designed urban planting. Landscape and Urban Planning 164:109-123. https://doi.org/10.1016/j.landurbplan.2017.03.011.
+
+------------------------------------------------------------------------
+
+Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [green space](../topics/GreenSpace.qmd), [biodiversity](../topics/Biodiversity.qmd), perceptions, [methods](../topics/Methods.qmd)
+
+Relationships between biodiversity and human aesthetic response are complex. Recovery from mental fatigue requires settings to escape the routine environment (often large natural spaces are thought of as a good environment for this)
+
+Relationship between restorative effect and various ecological factors is varied.
+
+Created typology of 9 planting types for woodlands, shrubs, and herbaceous veg.
+
+-   Planting types varied across gradients of **planting structure** and **species character**
+
+-   species character is derived from appearance on a gradient of native to non-native
+
+-   structure is layering of plants
+
+-   posit that character + structure = "naturalness"
+
+![Typology](https://ars.els-cdn.com/content/image/1-s2.0-S0169204617300701-fx1.jpg)
+
+-   also recorded % vegetative surface covered by flower
+
+Distributed questionnaires about the aesthetic qualities, restorative effects, and perceived biodiversity value
+
+-   vegetation community = 9 planting types
+
+```{=html}
+<!-- -->
+```
+-   character, % flower cover, and vegetation community were all significant variables on aesthetic effect
+
+-   structure, vegetation community, and % flower cover + demography influenced restorative effect
+
+-   species character, vegetation community, and % flower cover influenced perceived biodiversity
