@@ -1,0 +1,13 @@
+# Botzat_et_al_2016
+
+Alexandra Botzat, Leonie K. Fischer, Ingo Kowarik (2016) Unexploited opportunities in understanding liveable and biodiverse cities. A review on urban biodiversity perception and valuation. Global Environmental Change. https://doi.org/10.1016/j.gloenvcha.2016.04.008.
+
+---
+
+Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [green space](../topics/GreenSpace.qmd), [biodiversity](../topics/Biodiversity.qmd), perceptions, [methods](../topics/Methods.qmd)
+
+Systematic review to assess perception across climatic zones, spread of urban greenspaces assessed, scales of biodiversity assessed, and diversity of populations.  
+
+Streetscapes 3rd most prevalent greenspace type studied. Overall, large traditional greenspaces are the most studied. 
+
+Diversity of urban residents is understudied
