@@ -1,0 +1,17 @@
+# Qiu_et_al_2013
+
+Ling Qiu, Stefan Lindberg, Anders Busse Nielsen (2013). Is biodiversity attractive?---On-site perception of recreational and biodiversity values in urban green space. Landscape and Urban Planning 119:136-146, https://doi.org/10.1016/j.landurbplan.2013.07.007.
+
+------------------------------------------------------------------------
+
+Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [green space](../topics/GreenSpace.qmd), [biodiversity](../topics/Biodiversity.qmd), perceptions, [methods](../topics/Methods.qmd)
+
+-   wanted to know if people distinguish biologically rich environments in urban green spaces
+-   used qualitative descriptions of difference in habitat types
+-   looked at plant species richness and vegetation structure
+    -   scaled from 1-3 for each biodiversity measure and then based on overall score grouped into low, med, or high biodiversity
+-   vegetative complexity mostly descriptive
+-   did photography tests to assess preferences (VEP)
+-   Perception of species richness matched assessed biodiversity level but there was no preference for biodiversity
+    -   people preferred ornamental lawns (but also accurately described them as low biodiversity environments)\
+-   
