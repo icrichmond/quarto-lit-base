@@ -1,0 +1,21 @@
+# Gunnarsson_et_al_2016
+
+Gunnarsson, B., Knez, I., Hedblom, M. et al. Effects of biodiversity and environment-related attitude on perception of urban green space. Urban Ecosyst 20, 37–49 (2017). https://doi.org/10.1007/s11252-016-0581-x
+
+---
+
+Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [green space](../topics/GreenSpace.qmd), [biodiversity](../topics/Biodiversity.qmd), perceptions	 
+
+
+
+No actual correlation between perceived and quantified species richness - and further, human well-being is only positively related to perceived species richness (Dallimer et al 2012).
+
+People have also been shown to prefer "intermediate" biodiversity because sites with "high" biodiversity are so complex that the level isn't understood to actually be higher (Johansson et al. 2014)
+
+Six urban sites in Sweden across urban gradient. Measured biodiversity (trees, bushes, herbs, songbirds, bumblebees), perceptions of site, and environment-related attitude of participants. 
+
+Surveys were 7 point scales of agreement with questions related to aesthetic perceptions, greenery related sound perception, importance of greenery for perception of bird species, attitude.  
+
+More nature-oriented and urban-oriented people had higher scores to urban green space related aesthetics. In low biodiversity settings, nature oriented people and non-nature oriented people had similar responses. 
+
+Their results show that perception follows broad categories of low/med/high biodiversity. Environment-related attitude was also an important factor in determining perceptions.
