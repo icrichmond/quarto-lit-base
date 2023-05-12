@@ -1,0 +1,21 @@
+# Kicic_et_al_2022
+
+Martina Kičić, Dagmar Haase, Ana Marija Marin, Dijana Vuletić, Silvija Krajter Ostoić (2022). Perceptions of cultural ecosystem services of tree-based green infrastructure: A focus group participatory mapping in Zagreb, Croatia. Urban Forestry & Urban Greening, 78:127767, https://doi.org/10.1016/j.ufug.2022.127767.
+
+------------------------------------------------------------------------
+
+Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [urban trees](../topics/UrbanTrees.qmd), [cultural ecosystem services](../topics/CulturalEcosystemServices.qmd), perceptions, [methods](../topics/Methods.qmd)
+
+Urban green infrastructure is main provider of cultural ecosystem services in cities. Gap in literature regarding connection between cultural ecosystem services and tree-based GI that is not parks, urban forests, and cemeteries.
+
+Used focus groups and participatory mapping to collect data.
+
+-   most markers were associated with place attachment, aesthetics, then recreational services
+
+-   least number of markers were for cultural identity and education
+
+-   parks and forests were most important UGI for providing CES
+
+-   Greenways also came up as important in relation to place attachment, aesthetics, and recreational values
+
+-   Greenery surrounding residential buildings was regarded in the context of aesthetics
