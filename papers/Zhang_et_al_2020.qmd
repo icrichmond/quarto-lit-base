@@ -1,9 +1,25 @@
 # Zhang_et_al_2020
 
-Xibei Zhang, Zhuobiao Ni, Yafei Wang, Siyu Chen, Beicheng Xia (2020). Public perception and preferences of small urban green infrastructures: A case study in Guangzhou, China. Urban Forestry & Urban Greening 53:126700,
-https://doi.org/10.1016/j.ufug.2020.126700.
+Xibei Zhang, Zhuobiao Ni, Yafei Wang, Siyu Chen, Beicheng Xia (2020). Public perception and preferences of small urban green infrastructures: A case study in Guangzhou, China. Urban Forestry & Urban Greening 53:126700, https://doi.org/10.1016/j.ufug.2020.126700.
 
----
+------------------------------------------------------------------------
 
 Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [green space](../topics/GreenSpace.qmd), [biodiversity](../topics/Biodiversity.qmd), perceptions, [methods](../topics/Methods.qmd)
 
+Small urban green infrastructure is understudied in terms of use and perception. But small UGIs are more in line with city's demands for green infrastructure - as there is usually not a lot of room to build large parks etc. Studied preferences of people for urban green infrastructure, and how are the benefits valued? Studied a green roof, green wall, and small green lane.
+
+Asked residents their willingness to pay and travel cost method for green infrastructure + demographic background.
+
+-   People were satisfied with the green lane but when asked if they would replace it and with what, the dominant answer was an urban forest (followed by green roof)
+
+-   People were more willing to pay for a green lane than a green roof or wall
+
+-   Air pollution/quality was top ranked concern and reason for investing in GI, followed by noise pollution and temperature
+
+    -   biodiversity degradation was least important issue
+
+-   Noise was more important for men, air pollution for women
+
+-   Flooding was more important for people with lower incomes
+
+-   Respondents generally unaware of biodiversity protection benefits
