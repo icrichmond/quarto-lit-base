@@ -10,6 +10,16 @@
   {
     "listing": "/index.html",
     "items": [
+      "/papers/Kendal_et_al_2015.html",
+      "/papers/Brancalion_et_al_2014.html",
+      "/papers/Kicic_et_al_2022.html",
+      "/papers/Zhang_et_al_2020.html",
+      "/topics/GreenInfrastructure.html",
+      "/papers/Qiu_et_al_2013.html",
+      "/papers/Gunnarsson_et_al_2016.html",
+      "/papers/Hoyle_et_al_2017.html",
+      "/papers/Botzat_et_al_2016.html",
+      "/papers/Sax_et_al_2022.html",
       "/papers/Cheng_et_al_2021.html",
       "/papers/Hsieh_et_al_2016.html",
       "/topics/TemperatureMitigation.html",
@@ -201,6 +211,15 @@
   {
     "listing": "/papers.html",
     "items": [
+      "/papers/Kendal_et_al_2015.html",
+      "/papers/Brancalion_et_al_2014.html",
+      "/papers/Kicic_et_al_2022.html",
+      "/papers/Zhang_et_al_2020.html",
+      "/papers/Qiu_et_al_2013.html",
+      "/papers/Gunnarsson_et_al_2016.html",
+      "/papers/Hoyle_et_al_2017.html",
+      "/papers/Botzat_et_al_2016.html",
+      "/papers/Sax_et_al_2022.html",
       "/papers/Cheng_et_al_2021.html",
       "/papers/Hsieh_et_al_2016.html",
       "/papers/Alonzo_et_al_2021.html",
@@ -323,6 +342,7 @@
   {
     "listing": "/topics.html",
     "items": [
+      "/topics/GreenInfrastructure.html",
       "/topics/TemperatureMitigation.html",
       "/topics/Academia.html",
       "/topics/CanopyCover.html",

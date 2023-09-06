@@ -1,0 +1,17 @@
+# Kendal_et_al_2015
+
+Dave Kendal, Rebecca M Ford, Nerida M Anderson, Alison Farrar (2015). The VALS: A new tool to measure people's general valued attributes of landscapes. Journal of Environmental Management, 163:224-233, http://dx.doi.org/10.1016/j.jenvman.2015.08.017.
+
+------------------------------------------------------------------------
+
+Keywords: values, perceptions, [methods](../topics/Methods.qmd)
+
+-   attempt to make a more broad, usable general survey instrument that captures people's values without being too place-specific or limited to experts or the public
+-   attempts to link theoretical understanding of values to policymaker and land manager understandings of values
+-		managers and residents have very different understandings of 'values' and to make it into policy, value-based studies have to speak to manager experience/knowledge
+-		social scientists/psychologists also have very different approach to values
+-		valued attributes is a coined term that is integrating values in the environment into psychological understanding of value
+-		importance of attributes measured on a 7-point Likert scale, 24 item scale
+-		consistent scale of importance allows factors in the scale to be comparable
+-		scores were standardized (0-1) prior to analysis
+-		used factor analysis on the separate scales to find minimum residual solution

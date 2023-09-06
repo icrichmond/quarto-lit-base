@@ -1,0 +1,7 @@
+# Brancalion_et_al_2014
+
+Martina Kičić, Dagmar Haase, Ana Marija Marin, Dijana Vuletić, Silvija Krajter Ostoić (2022). Perceptions of cultural ecosystem services of tree-based green infrastructure: A focus group participatory mapping in Zagreb, Croatia. Urban Forestry & Urban Greening, 78:127767, https://doi.org/10.1016/j.ufug.2022.127767.
+
+------------------------------------------------------------------------
+
+Keywords: [Green infrastructure](../topics/GreenInfrastructure.qmd), [urban trees](../topics/UrbanTrees.qmd), [cultural ecosystem services](../topics/CulturalEcosystemServices.qmd), perceptions, [methods](../topics/Methods.qmd)
