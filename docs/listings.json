@@ -2,6 +2,8 @@
   {
     "listing": "/books.html",
     "items": [
+      "/books/MacDowell_2012.html",
+      "/books/Linteau_2000.html",
       "/books/United_Nations_2018.html",
       "/books/Heynen_et_al_2006.html",
       "/books/MEA_2005.html"
@@ -10,6 +12,10 @@
   {
     "listing": "/index.html",
     "items": [
+      "/books/MacDowell_2012.html",
+      "/papers/Dean_2005.html",
+      "/papers/Nelles_2005.html",
+      "/books/Linteau_2000.html",
       "/papers/Kendal_et_al_2015.html",
       "/papers/Brancalion_et_al_2014.html",
       "/papers/Kicic_et_al_2022.html",
@@ -211,6 +217,8 @@
   {
     "listing": "/papers.html",
     "items": [
+      "/papers/Dean_2005.html",
+      "/papers/Nelles_2005.html",
       "/papers/Kendal_et_al_2015.html",
       "/papers/Brancalion_et_al_2014.html",
       "/papers/Kicic_et_al_2022.html",
