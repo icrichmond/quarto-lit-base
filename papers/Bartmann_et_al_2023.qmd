@@ -1,0 +1,7 @@
+# Barkmann_et_al_2023
+
+Barkmann, F., Huemer, P., Tappeiner, U. et al. Standardized butterfly surveys: comparing transect counts and area-time counts in insect monitoring. Biodivers Conserv 32, 987--1004 (2023). <https://doi.org/10.1007/s10531-022-02534-2>
+
+[butterflies]((../topics/Butterflies.qmd)), [methods]((../topics/Methods.qmd))
+
+This paper is sick
