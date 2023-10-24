@@ -1,0 +1,53 @@
+# Burkner_Vuorre_2019
+
+Paul-Christian Bürkner and Matti Vuorre. Ordinal Regression Models in Psychology: A Tutorial. Advances in Methods and Practices in Psychological Science 2019 2:1, 77-101
+
+------------------------------------------------------------------------
+
+Keywords: Ordinal variables, [stats](../topics/Statistics.qmd), [methods](../topics/Methods.qmd)
+
+-   treating ordinal data as continuous/metric can lead to errors such as low rates of correct detection, distorted effect-size estimates, inflated false alarm (Type I error) rates, and inversions of differences between groups
+
+-   errors occur because distances between values are not equidistant, distribution of responses is often non-normally distributed, and variances between groups can be unequal
+
+-   ordinal regression models are recommended in place of other insufficient solutions such as averaging over data
+
+-   Likert scales are appropriate for cumulative models -\> where we know categories have ordering but we don't know the distance between them or whether the distances between them vary across participants
+
+    -   each response level is provided with a cutpoint and the model uses these thresholds/cutpoints instead of intercepts
+
+-   Sequential models - if the response can be understood as being the result of a sequential process, such that a higher response category is possible only after all lower categories are achieved, the sequential model proposed by Tutz (1990) is usually appropriate
+
+-   Adjacent Category Models - widely used in item response theory and are applied in many large-scale assessment studies. Chosen for its mathematical convenience rather than any quality of interpretation
+
+-   unequal variances can be modeled with all three classes of ordinal models (`brm(bf(Y ∼ X, disc ∼ X), …)`)
+
+-   Category-specific effects (modelling the effects a predictor has on K coefficients) is unproblematic in sequential and adjacent-category but can cause problems in cumulative models
+
+-   Ignoring the possibility of unequal variances can lead to problems such as inflated error rates and distorted effect sizes but incorporating unequal variances is easily done
+
+-   `family = cumulative('probit')` changes error term to normally distributed instead of logistically distributed
+
+-   Estimate column is posterior means of the parameters and Est.Error is posterior std devs -\> analogous to Frequentist point estimates
+
+-   Rhat should not be larger than 1.1 and effective sample is ideally \> 1000
+
+-   Threshold estimates are similar to intercepts - rarely interpreted
+
+-   categorical explanatories:
+
+    -   coefficients indicate the extent to which people within each category differ from the level that was eaten by the intercept
+
+-   switch to adjacent category model (`family = acat()`) to see how different groups respond to questions differently
+
+-   unequal variances
+
+    -   add linear formula based on variances to account for unequal variances across groups
+
+-   can use model comparison to assess which model fits data best: base, adjacent category, or unequal variances
+
+-   multiple Likert items: the participants provide responses to multiple items. In such cases, one can fit a multilevel ordinal model that takes the items and participants into account, incorporating all information in the data into the model while controlling for dependencies between ratings from the same person and between ratings of the same item.
+
+    -   `rating ~ 1 + belief + (1|person) + (1|item)`
+
+-   To model threshold-specific variances, we would write `(cs(1)|<group>)`
