@@ -1,0 +1,11 @@
+# Rotzer_et_al_2021
+
+Rötzer, T., Moser-Reischl, A., Rahman, M.A., Grote, R., Pauleit, S., Pretzsch, H. (2020). Modelling Urban Tree Growth and Ecosystem Services: Review and Perspectives. In: Cánovas, F.M., Lüttge, U., Risueño, MC., Pretzsch, H. (eds) Progress in Botany Vol. 82. Progress in Botany, vol 82. Springer, Cham. https://doi.org/10.1007/124_2020_46
+------------------------------------------------------------------------
+
+Keywords: [Urban trees](../topics/UrbanTrees.qmd), [methods](../topics/Methods.qmd), growth models
+
+
+- allometric relationships between DBH and tree development exist for forest stands but not urban trees 
+- urban trees exist in many varied environments and so transferring growth equations across regions or types of urban forests is not always feasible 
+- detailed growth equations can help 

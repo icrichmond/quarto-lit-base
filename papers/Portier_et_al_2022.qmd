@@ -1,0 +1,30 @@
+# Portier_et_al_2022
+
+Jeanne Portier, Florian Zellweger, Jürgen Zell, Iciar Alberdi Asensio, Michal Bosela, Johannes Breidenbach, Vladimír Šebeň, Rafael O. Wüest, Brigitte Rohner (2022) Plot size matters: Toward comparable species richnesss estimates across plot-based inventories. Ecology and Evolution 12(6):e8965.https://doi.org/10.1002/ece3.8965
+
+------------------------------------------------------------------------
+
+Keywords: rarefaction, [stats](../topics/Statistics.qmd), [methods](../topics/Methods.qmd)
+
+-   size of monitored plots directly affects how many species can be found
+
+-   SR increases non-linearly with the area of the sampling units
+
+-   SR should always be reported with plot size
+
+-   recommend up scaling data using rarefaction curves
+
+-   randomly sampled each plot size and aggregated to create mega-plots (mega-plots were a size comparable to other forest survey plot sizes)
+
+-   aggregated plots prone to over-inflation of species because of environmental heterogeneity
+
+-   calculated env heterogeneity in mega-plots
+
+-   used env heterogeneity-adjusted rarefaction curves to model SR at larger plot sizes
+
+-   ch 2: rarefaction curves for large plots and mini plots
+
+    -   separate by park type? most of environmental heterogeneity
+    -   do I have enough plots to do this? they created mega-plots using replicates of 500
+
+
